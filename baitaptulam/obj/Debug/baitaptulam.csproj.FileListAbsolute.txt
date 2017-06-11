@@ -1,0 +1,6 @@
+C:\Users\Win 8.1 VS8 X64\Documents\Visual Studio 2015\Projects\baitaptulam\baitaptulam\bin\Debug\baitaptulam.exe.config
+C:\Users\Win 8.1 VS8 X64\Documents\Visual Studio 2015\Projects\baitaptulam\baitaptulam\bin\Debug\baitaptulam.exe
+C:\Users\Win 8.1 VS8 X64\Documents\Visual Studio 2015\Projects\baitaptulam\baitaptulam\bin\Debug\baitaptulam.pdb
+C:\Users\Win 8.1 VS8 X64\Documents\Visual Studio 2015\Projects\baitaptulam\baitaptulam\obj\Debug\baitaptulam.csprojResolveAssemblyReference.cache
+C:\Users\Win 8.1 VS8 X64\Documents\Visual Studio 2015\Projects\baitaptulam\baitaptulam\obj\Debug\baitaptulam.exe
+C:\Users\Win 8.1 VS8 X64\Documents\Visual Studio 2015\Projects\baitaptulam\baitaptulam\obj\Debug\baitaptulam.pdb
